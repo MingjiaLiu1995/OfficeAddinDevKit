@@ -1,4 +1,4 @@
-## 1.0.0 - Dec 13, 2024
+## 1.0.0 - Dec 19, 2024
 
 **1.0.0 is the generally available version for Office Add-ins Development Kit with multiple bugs fixed.**
 
@@ -19,6 +19,6 @@ Excel add-ins:
 PowerPoint add-ins:
 * [PowerPoint JavaScript preview APIs](https://learn.microsoft.com/javascript/api/requirement-sets/powerpoint/powerpoint-preview-apis?view=common-js-preview)
 
-## 0.9.0 - Aug 20, 2024
+## 0.5.0 - Aug 20, 2024
 
 Office Add-ins Development Kit released in preview.
